@@ -3,6 +3,14 @@ typed-a
 
 Typed accessors for Node.js
 
+## How to Install
+
+```bash
+npm install typed-a
+```
+
+## How to Use
+
 ```js
 var typed = require('typed-a');
 
