@@ -1,0 +1,24 @@
+{
+  "name": "typed-a",
+  "version": "1.0.0",
+  "description": "Typed accessors for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xfede/typed-a.git"
+  },
+  "keywords": [
+    "accessor",
+    "accessors",
+    "i18n"
+  ],
+  "author": "Federico Pinna <0xfede@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xfede/typed-a/issues"
+  },
+  "homepage": "https://github.com/0xfede/typed-a"
+}
